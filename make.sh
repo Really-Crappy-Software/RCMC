@@ -1,2 +1,2 @@
-gcc rcmat.c -o rcmat
-sudo cp rcmat /usr/bin
+gcc rcmc.c -o rcmc
+sudo cp rcmc /usr/bin
